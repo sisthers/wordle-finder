@@ -1,0 +1,16 @@
+C:\Users\poter\Desktop\WordleFinder\bin\Debug\net5.0\WordleFinder.exe
+C:\Users\poter\Desktop\WordleFinder\bin\Debug\net5.0\WordleFinder.deps.json
+C:\Users\poter\Desktop\WordleFinder\bin\Debug\net5.0\WordleFinder.runtimeconfig.json
+C:\Users\poter\Desktop\WordleFinder\bin\Debug\net5.0\WordleFinder.runtimeconfig.dev.json
+C:\Users\poter\Desktop\WordleFinder\bin\Debug\net5.0\WordleFinder.dll
+C:\Users\poter\Desktop\WordleFinder\bin\Debug\net5.0\ref\WordleFinder.dll
+C:\Users\poter\Desktop\WordleFinder\bin\Debug\net5.0\WordleFinder.pdb
+C:\Users\poter\Desktop\WordleFinder\obj\Debug\net5.0\WordleFinder.csproj.AssemblyReference.cache
+C:\Users\poter\Desktop\WordleFinder\obj\Debug\net5.0\WordleFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poter\Desktop\WordleFinder\obj\Debug\net5.0\WordleFinder.AssemblyInfoInputs.cache
+C:\Users\poter\Desktop\WordleFinder\obj\Debug\net5.0\WordleFinder.AssemblyInfo.cs
+C:\Users\poter\Desktop\WordleFinder\obj\Debug\net5.0\WordleFinder.csproj.CoreCompileInputs.cache
+C:\Users\poter\Desktop\WordleFinder\obj\Debug\net5.0\WordleFinder.dll
+C:\Users\poter\Desktop\WordleFinder\obj\Debug\net5.0\ref\WordleFinder.dll
+C:\Users\poter\Desktop\WordleFinder\obj\Debug\net5.0\WordleFinder.pdb
+C:\Users\poter\Desktop\WordleFinder\obj\Debug\net5.0\WordleFinder.genruntimeconfig.cache
